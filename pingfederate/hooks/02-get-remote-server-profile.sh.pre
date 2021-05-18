@@ -1,0 +1,3 @@
+ #!/usr/bin/env sh
+
+echo_green "Testing customization before retrieving server profile"
