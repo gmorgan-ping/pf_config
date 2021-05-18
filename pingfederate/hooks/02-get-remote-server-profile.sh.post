@@ -1,3 +1,5 @@
  #!/usr/bin/env sh
+# shellcheck source=pingcommon.lib.sh
+. "${HOOKS_DIR}/pingcommon.lib.sh"
 
 echo_red "Testing customization after retrieving server profile"
